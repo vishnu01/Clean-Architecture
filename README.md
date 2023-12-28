@@ -53,3 +53,7 @@ Repository include layers divided by **4 project**;
     * ViewModels
     * Extensions
     * Mapper
+
+
+# SCIP 
+![Structure and Interpretation of Computer Programs](https://mk12.github.io/sicp/lecture/index.html)
